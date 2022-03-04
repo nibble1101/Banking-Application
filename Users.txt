@@ -1,0 +1,3 @@
+﻿CLIXXABCD11 PassWord#1@
+CLIXXABCD12 PassWord#12@
+EMPXXABCD11 PassWord#1@

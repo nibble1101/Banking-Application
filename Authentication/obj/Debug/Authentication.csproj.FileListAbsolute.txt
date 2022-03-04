@@ -1,0 +1,6 @@
+C:\Users\Ritik\Desktop\cpts321-in-class-exercises\Banking Application\Authentication\bin\Debug\Authentication.dll
+C:\Users\Ritik\Desktop\cpts321-in-class-exercises\Banking Application\Authentication\bin\Debug\Authentication.pdb
+C:\Users\Ritik\Desktop\cpts321-in-class-exercises\Banking Application\Authentication\obj\Debug\Authentication.csproj.AssemblyReference.cache
+C:\Users\Ritik\Desktop\cpts321-in-class-exercises\Banking Application\Authentication\obj\Debug\Authentication.csproj.CoreCompileInputs.cache
+C:\Users\Ritik\Desktop\cpts321-in-class-exercises\Banking Application\Authentication\obj\Debug\Authentication.dll
+C:\Users\Ritik\Desktop\cpts321-in-class-exercises\Banking Application\Authentication\obj\Debug\Authentication.pdb
