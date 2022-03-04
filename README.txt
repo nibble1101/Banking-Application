@@ -3,8 +3,6 @@ Authentication
 Tranfer funds
 And Undo Redo
 These features have been implemented according to the instructions stated in the final exam prompt.
-
-The only feature I didn't implement is multi-threading of the application.
 	
 Instructions to run the program:
 1. Run the application.
